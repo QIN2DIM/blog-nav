@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nav.echosec.top/about/</loc>
+    <loc>https://nav.echosec.top/blog-nav/about/</loc>
     <lastmod>2020-07-28T19:27:08+08:00</lastmod>
   </url><url>
-    <loc>https://nav.echosec.top/categories/</loc>
+    <loc>https://nav.echosec.top/blog-nav/categories/</loc>
   </url><url>
-    <loc>https://nav.echosec.top/</loc>
+    <loc>https://nav.echosec.top/blog-nav/</loc>
   </url><url>
-    <loc>https://nav.echosec.top/tags/</loc>
+    <loc>https://nav.echosec.top/blog-nav/tags/</loc>
   </url>
 </urlset>

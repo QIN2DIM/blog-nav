@@ -1,4 +1,4 @@
-baseURL: "https://nav.echosec.top"
+baseURL: "https://nav.echosec.top/blog-nav"
 languageCode: "zh-CN"
 title: "QIN2DIM の 个人导航"
 theme: "webstack-hugo"

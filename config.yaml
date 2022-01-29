@@ -1,0 +1,17 @@
+baseURL: "https://nav.echosec.top/blog-nav"
+languageCode: "zh-CN"
+title: "QIN2DIM の 个人导航"
+theme: "webstack-hugo"
+preserveTaxonomyNames: true
+disablePathToLower: true
+hasCJKLanguage: true
+copyright: "QIN2DIM"
+publishDir: docs
+
+params:
+  author: "QIN2DIM"
+  description: "A Creator from China."
+  search:
+    enable: true
+  darkmode:
+    enable: false

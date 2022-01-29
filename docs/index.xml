@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QIN2DIM の 个人导航</title>
+    <link>https://nav.echosec.top/blog-nav/</link>
+    <description>Recent content on QIN2DIM の 个人导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>QIN2DIM</copyright><atom:link href="https://nav.echosec.top/blog-nav/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于本站</title>
+      <link>https://nav.echosec.top/blog-nav/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>https://nav.echosec.top/blog-nav/about/</guid>
+      <description>嘿！收藏夹吃灰去吧。</description>
+    </item>
+    
+  </channel>
+</rss>

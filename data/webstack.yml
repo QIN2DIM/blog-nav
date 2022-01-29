@@ -1,0 +1,181 @@
+---
+- taxonomy: QIN2DIM
+  icon: fa-star
+  links:
+    - title: Tech Blog
+      logo: assets/images/avatar.png
+      url: "https://blog.echosec.top"
+      description: "分享与技术有关的趣事"
+    - title: GitHub
+      logo: assets/images/logos/GitHub.svg
+      url: https://github.com/QIN2DIM
+      description: "GitHub 个人主页"
+    - title: Twitter
+      logo: assets/images/logos/twitter.svg
+      url: "https://twitter.com/Alkaid20860233"
+      description: "Twitter 个人主页"
+    - title: Telegram群组
+      logo: assets/images/logos/telegram.svg
+      url: https://t.me/+VSNLl1WwBG9VmNU5
+      description: QIN2DIN's Tech Studio
+
+- taxonomy: 闪电内链
+  icon: fa-pinterest
+  links:
+    - title: Kiwivm
+      logo: assets/images/logos/back-end.svg
+      url: https://kiwivm.64clouds.com/
+      description: 搬瓦工管理面板
+    - title: ehall校内门户
+      logo: assets/images/logos/ic_lifehall_selected.svg
+      url: "https://ehall.hainanu.edu.cn/ywtb-portal/Lite/index.html#/work_bench/Lite_workbench"
+      description: 网上服务大厅后台接口
+    - title: 数字资源图书馆
+      logo: assets/images/logos/hainanu.jpg
+      url: "https://webvpn.hainanu.edu.cn/https/77726476706e69737468656265737421fcfe43d22f31615e7f069ce29d51367b1db2/zy1/szzy1.htm"
+      description: 数字图书馆后台接口
+
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list:
+    - term: 图标素材
+      links:
+        - title: iconfont
+          logo: assets/images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+        - title: Iconfinder
+          logo: assets/images/logos/Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: FindIcons
+          logo: assets/images/logos/FindIcons.png
+          url: https://findicons.com/
+          description: Search through 300,000 free icons
+        - title: easyicon
+          logo: assets/images/logos/easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        - title: Font Awesome Icon
+          logo: assets/images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome
+        - title: Tabler Icons
+          logo: assets/images/logos/TablerIcons.svg
+          url: https://tablericons.com/
+          description: 1424 Fully customizable free SVG icons. (MIT license)
+    - term: 媒体资源
+      links:
+        - title: Pixabay
+          url: https://pixabay.com/
+          logo: assets/images/logos/pixabay.png
+          description: "可在任何地方使用的免费图片和视频"
+        - title: Unsplash
+          url: https://unsplash.com/
+          logo: assets/images/logos/unsplash.png
+          description: "美丽而免费的照片"
+        - title: Pexels
+          url: https://www.pexels.com/zh-cn/
+          logo: assets/images/logos/7275380_pexels_apps_platform_icon.svg
+          description: "精彩的素材图片和视频"
+        - title: coverr
+          url: "https://coverr.co/"
+          logo: assets/images/logos/coverr.png
+          description: "Beautiful Free Stock Video Footage"
+        - title: MixKit
+          url: "https://mixkit.co/"
+          logo: assets/images/logos/mixkit.jpg
+          description: "Free assets for your next video project"
+        - title: videvo
+          url: "https://www.videvo.net/"
+          logo: assets/images/logos/videvo.png
+          description: "Free Stock Video Footage"
+        - title: Wallpaper
+          url: https://wall.alphacoders.com/?lang=Chinese
+          logo: assets/images/logos/wallpaper-alphacoders.jpg
+          description: 免费高清壁纸
+
+    - term: 字体资源
+      links:
+        - title: fontspace
+          url: https://www.fontspace.com/
+          logo: assets/images/logos/fontspace-logo-white-text.jpg
+          description: 88,000+ Free Fonts
+        - title: 100font
+          url: https://www.100font.com/
+          logo: assets/images/logos/100font.png
+          description: "一个专门收集整理「免费商用字体」的网站"
+
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: assets/images/logos/officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: assets/images/logos/ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: PPT超级市场
+          url: https://www.pptsupermarket.com/
+          logo: assets/images/logos/ppt超级市场.jpg
+          description: OfficePLUS，微软Office官方在线模板网站！
+    - term: 飞秋
+      links:
+        - title: 片库
+          url: https://www.mypianku.net/
+          logo: assets/images/logos/片库.jpg
+          description: 免费的影视资源站点
+        - title: AGE.TV
+          url: https://www.agemys.com/
+          logo: assets/images/logos/AGETV.jpg
+          description: 动漫番剧在线观看
+
+
+- taxonomy: 常用工具
+  icon: fa-diamond
+  list:
+    - term: 临时邮箱
+      links: 
+        - title: 临时邮箱
+          url: https://linshiyouxiang.net/
+          logo: assets/images/logos/tempmail.png
+          description: 24小时免费邮箱
+        - title: Temp Mail
+          url: https://temp-mail.to/
+          logo: assets/images/logos/Snipaste_2022-01-29_09-08-07.png
+          description: Free, easy to use and reliable temporary email address.
+    - term: 图像处理
+      links:
+        - title: docsmall
+          url: https://docsmall.com/gif-compress
+          logo: assets/images/logos/adf3ce1.png
+          description: GIF在线压缩
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: assets/images/logos/gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+
+- taxonomy: 关联导航
+  icon: fa-compass
+  list:
+    - term: 技术导航
+      links:
+        - title: 鱼皮导航
+          url: https://www.code-nav.cn/
+          logo: assets/images/logos/yupi-nav.png
+          description: 站长鱼皮的编程导航
+
+    - term: 资源导航
+      links:
+        - title: 优聚集
+          url: https://ujuji.com/
+          logo: assets/images/logos/优聚集.png
+          description: 既行好事，也问前程
+        - title: doyoudo
+          url: http://doyoudo.com/resources
+          logo: assets/images/logos/doyoudo.png
+          description: doyoudo设计资源推荐
+
+- taxonomy: OSINT
+  icon: fa-user-secret

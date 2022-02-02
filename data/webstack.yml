@@ -34,6 +34,11 @@
       logo: assets/images/logos/hainanu.jpg
       url: "https://webvpn.hainanu.edu.cn/https/77726476706e69737468656265737421fcfe43d22f31615e7f069ce29d51367b1db2/zy1/szzy1.htm"
       description: 数字图书馆后台接口
+    - title: tldraw
+      logo: assets/images/logos/tldraw.jpg
+      url: https://www.tldraw.com/
+      description: A tiny little drawing app.
+
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -155,6 +160,25 @@
           url: https://www.gaoding.com
           logo: assets/images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
+- taxonomy: 开发依赖
+  icon: fa-code
+  list:
+    - term: 技术文档
+      links:
+    - term: 平台组件
+      links:
+        - title: DeepSource
+          url: https://deepsource.io/
+          logo: assets/images/logos/deepsource.png
+          description: 代码质量检查
+        - title: MakeSense
+          url: https://www.makesense.ai/
+          logo: assets/images/logos/make-sense.png
+          description: 图像数据集标注
+        - title: OpenAI Gym
+          url: https://gym.openai.com/
+          logo: assets/images/logos/OpenAI.png
+          description: 强化学习算法开发平台
 
 - taxonomy: 关联导航
   icon: fa-compass

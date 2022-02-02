@@ -39,7 +39,6 @@
       url: https://www.tldraw.com/
       description: A tiny little drawing app.
 
-
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list:
@@ -99,6 +98,10 @@
           url: https://wall.alphacoders.com/?lang=Chinese
           logo: assets/images/logos/wallpaper-alphacoders.jpg
           description: 免费高清壁纸
+        - title: Wallhaven
+          url: https://wallhaven.cc/
+          logo: assets/images/logos/wallhaven.png
+          description: 桌面壁纸
 
     - term: 字体资源
       links:
@@ -170,7 +173,7 @@
         - title: DeepSource
           url: https://deepsource.io/
           logo: assets/images/logos/deepsource.png
-          description: 代码质量检查
+          description: 代码质量审查
         - title: MakeSense
           url: https://www.makesense.ai/
           logo: assets/images/logos/make-sense.png
@@ -179,6 +182,15 @@
           url: https://gym.openai.com/
           logo: assets/images/logos/OpenAI.png
           description: 强化学习算法开发平台
+        - title: ip111
+          url: http://www.ip111.cn/
+          logo: assets/images/logos/IP address.svg
+          description: 映射当前网络的外网IP地址
+        - title: AntiBot
+          url: https://bot.sannysoft.com/
+          logo: assets/images/logos/antibot 爬虫风险管理.svg
+          description: 映射当前浏览器驱动的运行参数
+
 
 - taxonomy: 关联导航
   icon: fa-compass
@@ -189,6 +201,14 @@
           url: https://www.code-nav.cn/
           logo: assets/images/logos/yupi-nav.png
           description: 站长鱼皮的编程导航
+        - title: GitHub 中文社区
+          url: https://www.githubs.cn/
+          logo: assets/images/logos/GitHub.svg
+          description: 分享和传播优质开源的 GitHub 项目
+        - title: HelloGitHub
+          url: https://hellogithub.com/
+          logo: assets/images/logos/HelloGitHub.png
+          description: 分享 GitHub 上有趣、入门级的开源项目
 
     - term: 资源导航
       links:
@@ -203,3 +223,57 @@
 
 - taxonomy: OSINT
   icon: fa-user-secret
+  list:
+    - term: OSINT
+      links:
+      - title: WhatMyName
+        url: https://whatsmyname.app/
+        logo: assets/images/logos/whatmyname.jpg
+        description: 用户名搜索引擎
+      - title: crt.sh
+        url: https://crt.sh/?
+        logo: assets/images/logos/crt-sh.png
+        description: 证书搜索引擎
+      - title: ZoomEye
+        url: https://www.zoomeye.org/component
+        logo: assets/images/logos/ZoomeEye.jpg
+        description: 互联网资产搜索引擎
+      - title: Shodan
+        url: https://www.shodan.io/
+        logo: assets/images/logos/shodan.jpg
+        description: 互联网连接设备搜索引擎
+      - title: SunCalc
+        url: http://suncalc.net/
+        logo: assets/images/logos/SunCalc.jpg
+        description: 获取指定时刻的太阳位置和日光相位
+      - title: REG007
+        url: https://www.reg007.com
+        logo: assets/images/logos/reg007.jpg
+        description: 用户画像分析
+      - title: OpenGPS
+        url: https://www.opengps.cn/Data/IP/ipplus.aspx
+        logo: assets/images/logos/opengps.jpg
+        description: 高精度IP定位
+      # - title: CLTT
+      #   url: http://www.cltt.org/studentscore
+      #   logo: 
+      #   description: 获取CT头像
+    - term: 数据洞见
+      links:
+        - title: 报告查一查
+          url: http://report.seedsufe.com/index#/index
+          logo: assets/images/logos/报告查一查.png
+          description: 轻量级行研数据工具
+        - title: 见微数据
+          url: https://www.jianweidata.com/Index
+          logo: assets/images/logos/见微数据.png
+          description: 行业报告
+        - title: 数据聚焦
+          url: http://www.gov.cn/shuju/index.htm
+          logo:  assets/images/logos/数据聚焦.svg
+          description: 年度数据统计公报
+        - title: 地方统计局
+          url: http://www.stats.gov.cn/tjgz/wzlj/dftjwz/
+          logo: assets/images/logos/统计 (1).svg
+          description: 国家统计局的地区关联站点
+

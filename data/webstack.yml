@@ -131,7 +131,7 @@
     - term: 飞秋
       links:
         - title: 片库
-          url: https://www.mypianku.net/
+          url: https://www.btnull.org/
           logo: assets/images/logos/片库.jpg
           description: 免费的影视资源站点
         - title: AGE.TV
@@ -153,6 +153,11 @@
           url: https://temp-mail.to/
           logo: assets/images/logos/Snipaste_2022-01-29_09-08-07.png
           description: Free, easy to use and reliable temporary email address.
+        - title: Tempmail Plus
+          url: https://tempmail.plus/zh/#!
+          logo: assets/images/logos/tempemail_plus.png
+          description: 一次性的匿名邮箱服务
+
     - term: 图像处理
       links:
         - title: docsmall

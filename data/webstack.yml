@@ -38,6 +38,10 @@
       logo: assets/images/logos/tldraw.jpg
       url: https://www.tldraw.com/
       description: A tiny little drawing app.
+    - title: Outlook
+      logo: assets/images/logos/light-component-outlook-Forwardmail.svg
+      url: https://outlook.live.com/mail/0/
+      description: Outlook 网页版链接
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -168,11 +172,20 @@
           url: https://www.gaoding.com
           logo: assets/images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: Squoosh
+          url: https://squoosh.app/
+          logo: assets/images/logos/squoosh.png
+          description: 图片在线压缩
+
 - taxonomy: 开发依赖
   icon: fa-code
   list:
     - term: 技术文档
       links:
+        - title: Docker CLI
+          url: https://docs.docker.com/compose/reference/
+          logo: assets/images/logos/Docker.svg
+          description: Docker 指令介绍
     - term: 平台组件
       links:
         - title: DeepSource
@@ -183,6 +196,14 @@
           url: https://www.makesense.ai/
           logo: assets/images/logos/make-sense.png
           description: 图像数据集标注
+        - title: Cloud Studio
+          url: https://gh.cloudstudio.net/dashboard/general
+          logo: assets/images/logos/visualstudio.svg
+          description: 在线编程环境
+        - title: Free AI Hub
+          logo: assets/images/logos/狐狸logo.svg
+          url: https://www.freeaihub.com/
+          description: 交互式编程教学
         - title: OpenAI Gym
           url: https://gym.openai.com/
           logo: assets/images/logos/OpenAI.png

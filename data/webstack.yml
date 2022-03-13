@@ -42,6 +42,10 @@
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
       description: Outlook 网页版链接
+    - title: Gmail
+      logo: assets/images/logos/L0W5hykJ_400x400.jpg
+      url: https://mail.google.com/mail/u/0/#inbox
+      description: Gmail 网页版链接
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -184,7 +188,7 @@
       links:
         - title: Docker CLI
           url: https://docs.docker.com/compose/reference/
-          logo: assets/images/logos/Docker.svg
+          logo: assets/images/logos/docker.svg
           description: Docker 指令介绍
     - term: 平台组件
       links:
@@ -302,4 +306,13 @@
           url: http://www.stats.gov.cn/tjgz/wzlj/dftjwz/
           logo: assets/images/logos/统计 (1).svg
           description: 国家统计局的地区关联站点
+        - title: 世界银行公开数据
+          url: https://data.worldbank.org.cn/
+          logo: assets/images/logos/worldbank-logo-200.png
+          description: 免费并公开获取世界各国的发展数据
+        - title: Knoema
+          url: https://cn.knoema.com/
+          logo: assets/images/logos/knoema.png
+          description: 面向技术和非技术专业人员的数据洞见、数据管理和可视化工具
+
 

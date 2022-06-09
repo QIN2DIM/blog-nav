@@ -47,6 +47,20 @@
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail 网页版链接
 
+- taxonomy: 学术研发
+  icon: fa-graduation-cap
+  links:
+    - title: Phrasebank
+      logo: assets/images/logos/1519782_colorful_document_note_office_paper_icon.png
+      url: https://www.phrasebank.manchester.ac.uk/
+      description: SCI 论文词法短语库
+    - title: QuillBot
+      logo: assets/images/logos/quillbot.png
+      url: https://quillbot.com/
+      description: 语句增强、润色、改写
+
+
+
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list:

@@ -264,6 +264,11 @@
           url: http://doyoudo.com/resources
           logo: assets/images/logos/doyoudo.png
           description: doyoudo设计资源推荐
+        - title: 影视森林
+          url: https://www.549.tv/
+          logo: assets/images/logos/影视.svg
+          description: 影视资源导航
+
 
 - taxonomy: OSINT
   icon: fa-user-secret

@@ -42,10 +42,15 @@
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
       description: Outlook 网页版链接
+    - title: ProtonMail
+      logo: assets/images/logos/unnamed.webp
+      url: https://mail.proton.me/u/0/inbox
+      description: Ptoton 网页版链接
     - title: Gmail
       logo: assets/images/logos/L0W5hykJ_400x400.jpg
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail 网页版链接
+
 
 - taxonomy: 学术研发
   icon: fa-graduation-cap

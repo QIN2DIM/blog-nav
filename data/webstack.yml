@@ -312,24 +312,76 @@
       #   url: http://www.cltt.org/studentscore
       #   logo: 
       #   description: 获取CT头像
-    - term: 数据洞见
+        
+- taxonomy: 数据洞见
+  icon: fa-binoculars
+  list:
+    - term: 国内咨询机构数据报告
       links:
-        - title: 报告查一查
-          url: http://report.seedsufe.com/index#/index
-          logo: assets/images/logos/报告查一查.png
-          description: 轻量级行研数据工具
-        - title: 见微数据
-          url: https://www.jianweidata.com/Index
-          logo: assets/images/logos/见微数据.png
-          description: 行业报告
-        - title: 数据聚焦
+        - title: 艾瑞网
+          url: https://report.iresearch.cn/
+          logo: assets/images/logos/airui.jpg
+          description: 互联网行业报告
+        - title: 艾瑞APP指数
+          url: https://index.iresearch.com.cn/new/#/app
+          logo: assets/images/logos/airui.jpg
+          description: 移动App TOP 1000 月度活跃和日活跃
+        - title: 艾瑞PC指数
+          url: https://index.iresearch.com.cn/new/#/pc
+          logo: assets/images/logos/airui.jpg
+          description: PC TOP 1000-月度活跃和日活跃
+        - title: 199IT 
+          url: http://www.199it.com/
+          logo: assets/images/logos/199it.jpg
+          description: 中文互联网数据资讯网
+        - title: CNNIC
+          url: http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/
+          logo: assets/images/logos/CNNIC.png
+          description: 中国互联网信息中心
+        - title: STOCK.US
+          url: https://stock.us/cn/report/strategy
+          logo: assets/images/logos/stockus.jpg
+          description: 免费下载研报文件
+        - title: 聚研宝
+          url: https://juyanbao.com.cn/live
+          logo: assets/images/logos/juyanbao.jpg
+          description: 行业快讯
+        - title: IDC
+          url: https://www.idc.com/cn?tab=news
+          logo: assets/images/logos/IDC.png
+          description: 国际数据公司
+    - term: 国外咨询机构数据报告
+      links:
+        - title: IBM 
+          url: https://www.ibm.com/cn-zh/services/insights/institute-business-value
+          logo: assets/images/logos/IBM.png
+          description: 商业价值研究院
+        - title: similarweb
+          url: https://www.similarweb.com/zh/
+          logo: assets/images/logos/similarweb.png
+          description: 站点流量分析
+        - title: GSMA
+          url: https://www.gsma.com/mobileeconomy/
+          logo: assets/images/logos/GSMA.jpg
+          description: 全球移动互联网经济分析报告
+        - title: 普华永道
+          url: https://www.pwccn.com/zh/research-and-insights.html
+          logo: assets/images/logos/phyd.jpg
+          description: 各个行业的主要发现和行业报告
+        - title: McKinsey
+          url: https://www.mckinsey.com.cn/
+          logo: assets/images/logos/mkx.png
+          description: 行业洞见   
+    - term: 国家机构公开数据    
+      links:
+        - title: 国家宏观经济数据
           url: http://www.gov.cn/shuju/index.htm
           logo:  assets/images/logos/数据聚焦.svg
           description: 年度数据统计公报
-        - title: 地方统计局
-          url: http://www.stats.gov.cn/tjgz/wzlj/dftjwz/
+        - title: 国家统计局
+          url: http://www.stats.gov.cn/tjsj/
           logo: assets/images/logos/统计 (1).svg
-          description: 国家统计局的地区关联站点
+          description: 国家统计局
         - title: 世界银行公开数据
           url: https://data.worldbank.org.cn/
           logo: assets/images/logos/worldbank-logo-200.png
@@ -338,5 +390,3 @@
           url: https://cn.knoema.com/
           logo: assets/images/logos/knoema.png
           description: 面向技术和非技术专业人员的数据洞见、数据管理和可视化工具
-
-

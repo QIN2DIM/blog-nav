@@ -26,18 +26,18 @@
       logo: assets/images/logos/back-end.svg
       url: https://kiwivm.64clouds.com/
       description: 搬瓦工管理面板
-    - title: ehall校内门户
-      logo: assets/images/logos/ic_lifehall_selected.svg
-      url: "https://ehall.hainanu.edu.cn/ywtb-portal/Lite/index.html#/work_bench/Lite_workbench"
-      description: 网上服务大厅后台接口
-    - title: 数字资源图书馆
-      logo: assets/images/logos/hainanu.jpg
-      url: "https://webvpn.hainanu.edu.cn/https/77726476706e69737468656265737421fcfe43d22f31615e7f069ce29d51367b1db2/zy1/szzy1.htm"
-      description: 数字图书馆后台接口
-    - title: tldraw
-      logo: assets/images/logos/tldraw.jpg
-      url: https://www.tldraw.com/
-      description: A tiny little drawing app.
+    # - title: ehall校内门户
+    #   logo: assets/images/logos/ic_lifehall_selected.svg
+    #   url: "https://ehall.hainanu.edu.cn/ywtb-portal/Lite/index.html#/work_bench/Lite_workbench"
+    #   description: 网上服务大厅后台接口
+    # - title: 数字资源图书馆
+    #   logo: assets/images/logos/hainanu.jpg
+    #   url: "https://webvpn.hainanu.edu.cn/https/77726476706e69737468656265737421fcfe43d22f31615e7f069ce29d51367b1db2/zy1/szzy1.htm"
+    #   description: 数字图书馆后台接口
+    # - title: tldraw
+    #   logo: assets/images/logos/tldraw.jpg
+    #   url: https://www.tldraw.com/
+    #   description: A tiny little drawing app.
     - title: Outlook
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
@@ -50,9 +50,33 @@
       logo: assets/images/logos/L0W5hykJ_400x400.jpg
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail 网页版链接
+    - title: Gofile
+      url: https://gofile.io/uploadFiles
+      logo: assets/images/logos/gofile2.png
+      description: 文件临时中转
+    - title: Coverview
+      url: https://coverview.vercel.app/editor
+      logo: assets/images/logos/logo.5d3dd1b68da4b08fcf92.png
+      description: 制作博客封面
+    - title: LeetCode
+      url: https://leetcode.cn/progress/
+      logo: assets/images/logos/leetcode-3629476-3031539.png
+      description: LeetCode progress
+    - title: Easycv
+      url: https://easycv.cn/resumes
+      logo: assets/images/logos/easycv.ico
+      description: 简历管理
+    - title: Spotify List
+      url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
+      logo: assets/images/logos/spotify.png
+      description: 华语流行乐合辑
+    - title: YBMusic List
+      url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
+      logo: assets/images/logos/youtube-music.png
+      description: THE FIRST TAKE
 
 
-- taxonomy: 学术研发
+- taxonomy: TikShorts
   icon: fa-graduation-cap
   links:
     - title: Phrasebank
@@ -63,7 +87,14 @@
       logo: assets/images/logos/quillbot.png
       url: https://quillbot.com/
       description: 语句增强、润色、改写
-
+    - title: InfoQ
+      logo: assets/images/logos/qs25di18lrwglyiwvesu.webp
+      url: https://www.infoq.cn/
+      description: 促进软件开发及相关领域知识与创新的传播
+    - title: 36Kr
+      logo: assets/images/logos/y6h2zmrzzwaxqhygfgiu.webp
+      url: https://www.36kr.com/information/technology/
+      description: 前沿的科技发展趋势
 
 
 - taxonomy: 素材资源
@@ -209,6 +240,22 @@
           url: https://docs.docker.com/compose/reference/
           logo: assets/images/logos/docker.svg
           description: Docker 指令介绍
+        - title: Go语言设计与实现
+          url: https://draveness.me/golang/
+          description: 书籍电子文档
+        - title: 小林coding
+          url: https://xiaolincoding.com/
+          description: 图解计算机基础
+          logo: assets/images/logos/xiaolin.webp
+        - title: CDP
+          url: https://chromedevtools.github.io/devtools-protocol/tot/Emulation/
+          description: Chrome DevTools Protocol
+          logo: assets/images/logos/CDP.png
+        - title: CLS
+          url: https://peter.sh/experiments/chromium-command-line-switches/#enable-print-preview-register-promos
+          description: List of Chromium Command Line Switches
+          logo: assets/images/logos/1646807037162.png
+
     - term: 平台组件
       links:
         - title: DeepSource

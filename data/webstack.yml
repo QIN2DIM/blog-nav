@@ -243,6 +243,9 @@
         - title: Go语言设计与实现
           url: https://draveness.me/golang/
           description: 书籍电子文档
+        - title: Go语言高级编程
+          url: https://chai2010.cn/advanced-go-programming-book/
+          description: 书籍电子档
         - title: 小林coding
           url: https://xiaolincoding.com/
           description: 图解计算机基础

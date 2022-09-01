@@ -26,18 +26,6 @@
       logo: assets/images/logos/back-end.svg
       url: https://kiwivm.64clouds.com/
       description: 搬瓦工管理面板
-    # - title: ehall校内门户
-    #   logo: assets/images/logos/ic_lifehall_selected.svg
-    #   url: "https://ehall.hainanu.edu.cn/ywtb-portal/Lite/index.html#/work_bench/Lite_workbench"
-    #   description: 网上服务大厅后台接口
-    # - title: 数字资源图书馆
-    #   logo: assets/images/logos/hainanu.jpg
-    #   url: "https://webvpn.hainanu.edu.cn/https/77726476706e69737468656265737421fcfe43d22f31615e7f069ce29d51367b1db2/zy1/szzy1.htm"
-    #   description: 数字图书馆后台接口
-    # - title: tldraw
-    #   logo: assets/images/logos/tldraw.jpg
-    #   url: https://www.tldraw.com/
-    #   description: A tiny little drawing app.
     - title: Outlook
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
@@ -54,10 +42,6 @@
       url: https://gofile.io/uploadFiles
       logo: assets/images/logos/gofile2.png
       description: 文件临时中转
-    - title: Coverview
-      url: https://coverview.vercel.app/editor
-      logo: assets/images/logos/logo.5d3dd1b68da4b08fcf92.png
-      description: 制作博客封面
     - title: LeetCode
       url: https://leetcode.cn/progress/
       logo: assets/images/logos/leetcode-3629476-3031539.png
@@ -66,6 +50,10 @@
       url: https://easycv.cn/resumes
       logo: assets/images/logos/easycv.ico
       description: 简历管理
+    - title: 微信读书
+      url: https://weread.qq.com/web/shelf
+      logo: assets/images/logos/256.webp
+      description: web shelf
     - title: Spotify List
       url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
       logo: assets/images/logos/spotify.png

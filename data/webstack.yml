@@ -62,6 +62,10 @@
       url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
       logo: assets/images/logos/youtube-music.png
       description: THE FIRST TAKE
+    - title: ChatGPT
+      url: https://chat.openai.com/chat
+      logo: assets/images/logos/communityIcon_yyc98alroh5a1.jpg
+      description: Awesome NLP Bot
 
 
 - taxonomy: TikShorts

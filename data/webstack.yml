@@ -22,10 +22,10 @@
 - taxonomy: 闪电内链
   icon: fa-pinterest
   links:
-    - title: Kiwivm
-      logo: assets/images/logos/back-end.svg
-      url: https://kiwivm.64clouds.com/
-      description: 搬瓦工管理面板
+    # - title: Kiwivm
+    #   logo: assets/images/logos/back-end.svg
+    #   url: https://kiwivm.64clouds.com/
+    #   description: 搬瓦工管理面板
     - title: Outlook
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
@@ -46,26 +46,30 @@
       url: https://leetcode.cn/progress/
       logo: assets/images/logos/leetcode-3629476-3031539.png
       description: LeetCode progress
-    - title: Easycv
-      url: https://easycv.cn/resumes
-      logo: assets/images/logos/easycv.ico
+    - title: 超级简历
+      url: https://www.wondercv.com/cvs/z2MeoSr5/editor
+      logo: assets/images/logos/R.png
       description: 简历管理
     - title: 微信读书
       url: https://weread.qq.com/web/shelf
       logo: assets/images/logos/256.webp
       description: web shelf
-    - title: Spotify List
-      url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
-      logo: assets/images/logos/spotify.png
-      description: 华语流行乐合辑
+    # - title: Spotify List
+    #   url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
+    #   logo: assets/images/logos/spotify.png
+    #   description: 华语流行乐合辑
     - title: YBMusic List
       url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
       logo: assets/images/logos/youtube-music.png
       description: THE FIRST TAKE
-    - title: ChatGPT
-      url: https://chat.openai.com/chat
-      logo: assets/images/logos/communityIcon_yyc98alroh5a1.jpg
-      description: Awesome NLP Bot
+    # - title: ChatGPT
+    #   url: https://chat.openai.com/chat
+    #   logo: assets/images/logos/communityIcon_yyc98alroh5a1.jpg
+    #   description: Awesome NLP Bot
+    - title: Squoosh
+      url: https://squoosh.app/
+      logo: assets/images/logos/squoosh.png
+      description: 图片在线压缩
 
 
 - taxonomy: TikShorts
@@ -87,6 +91,14 @@
       logo: assets/images/logos/y6h2zmrzzwaxqhygfgiu.webp
       url: https://www.36kr.com/information/technology/
       description: 前沿的科技发展趋势
+    - title: Gearrice
+      logo: assets/images/logos/gearrice.png
+      description: Explore the Tech World
+      url: https://www.gearrice.com/
+    - title: Futurepedia
+      logo: assets/images/logos/futurepedia.png
+      description: AIGC工具目录
+      url: https://www.futurepedia.io/?sort=popular
 
 
 - taxonomy: 素材资源
@@ -102,67 +114,67 @@
           logo: assets/images/logos/Iconfinder.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
-        - title: FindIcons
-          logo: assets/images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: easyicon
-          logo: assets/images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+        # - title: FindIcons
+        #   logo: assets/images/logos/FindIcons.png
+        #   url: https://findicons.com/
+        #   description: Search through 300,000 free icons
+        # # - title: easyicon
+        #   logo: assets/images/logos/easyicon.png
+        #   url: http://www.easyicon.net/
+        #   description: PNG、ICO、ICNS格式图标搜索、图标下载服务
         - title: Font Awesome Icon
           logo: assets/images/logos/fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome
-        - title: Tabler Icons
-          logo: assets/images/logos/TablerIcons.svg
-          url: https://tablericons.com/
-          description: 1424 Fully customizable free SVG icons. (MIT license)
+        # - title: Tabler Icons
+        #   logo: assets/images/logos/TablerIcons.svg
+        #   url: https://tablericons.com/
+        #   description: 1424 Fully customizable free SVG icons. (MIT license)
     - term: 媒体资源
       links:
         - title: Pixabay
           url: https://pixabay.com/
           logo: assets/images/logos/pixabay.png
           description: "可在任何地方使用的免费图片和视频"
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: assets/images/logos/unsplash.png
-          description: "美丽而免费的照片"
+        # - title: Unsplash
+        #   url: https://unsplash.com/
+        #   logo: assets/images/logos/unsplash.png
+        #   description: "美丽而免费的照片"
         - title: Pexels
           url: https://www.pexels.com/zh-cn/
           logo: assets/images/logos/7275380_pexels_apps_platform_icon.svg
           description: "精彩的素材图片和视频"
-        - title: coverr
-          url: "https://coverr.co/"
-          logo: assets/images/logos/coverr.png
-          description: "Beautiful Free Stock Video Footage"
-        - title: MixKit
-          url: "https://mixkit.co/"
-          logo: assets/images/logos/mixkit.jpg
-          description: "Free assets for your next video project"
-        - title: videvo
-          url: "https://www.videvo.net/"
-          logo: assets/images/logos/videvo.png
-          description: "Free Stock Video Footage"
-        - title: Wallpaper
-          url: https://wall.alphacoders.com/?lang=Chinese
-          logo: assets/images/logos/wallpaper-alphacoders.jpg
-          description: 免费高清壁纸
-        - title: Wallhaven
-          url: https://wallhaven.cc/
-          logo: assets/images/logos/wallhaven.png
-          description: 桌面壁纸
+        # - title: coverr
+        #   url: "https://coverr.co/"
+        #   logo: assets/images/logos/coverr.png
+        #   description: "Beautiful Free Stock Video Footage"
+        # - title: MixKit
+        #   url: "https://mixkit.co/"
+        #   logo: assets/images/logos/mixkit.jpg
+        #   description: "Free assets for your next video project"
+        # - title: videvo
+        #   url: "https://www.videvo.net/"
+        #   logo: assets/images/logos/videvo.png
+        #   description: "Free Stock Video Footage"
+        # - title: Wallpaper
+        #   url: https://wall.alphacoders.com/?lang=Chinese
+        #   logo: assets/images/logos/wallpaper-alphacoders.jpg
+        #   description: 免费高清壁纸
+        # - title: Wallhaven
+        #   url: https://wallhaven.cc/
+        #   logo: assets/images/logos/wallhaven.png
+        #   description: 桌面壁纸
 
-    - term: 字体资源
-      links:
-        - title: fontspace
-          url: https://www.fontspace.com/
-          logo: assets/images/logos/fontspace-logo-white-text.jpg
-          description: 88,000+ Free Fonts
-        - title: 100font
-          url: https://www.100font.com/
-          logo: assets/images/logos/100font.png
-          description: "一个专门收集整理「免费商用字体」的网站"
+    # - term: 字体资源
+    #   links:
+    #     - title: fontspace
+    #       url: https://www.fontspace.com/
+    #       logo: assets/images/logos/fontspace-logo-white-text.jpg
+    #       description: 88,000+ Free Fonts
+    #     - title: 100font
+    #       url: https://www.100font.com/
+    #       logo: assets/images/logos/100font.png
+    #       description: "一个专门收集整理「免费商用字体」的网站"
 
     - term: PPT资源
       links:
@@ -180,6 +192,10 @@
           description: 免费、优质、高效、安全的PPT模版下载与PPT定制
     - term: 飞秋
       links:
+        - title: AList Share
+          logo: assets/images/logos/AList.png
+          description: 影视资源分享
+          url: https://docs.qq.com/sheet/DQ2xZQnp2aFFLc2tr?tab=BB08J2
         - title: 片库
           url: https://www.btnull.org/
           logo: assets/images/logos/片库.jpg
@@ -189,9 +205,8 @@
           logo: assets/images/logos/AGETV.jpg
           description: 动漫番剧在线观看
 
-
-- taxonomy: 常用工具
-  icon: fa-diamond
+- taxonomy: 开发依赖
+  icon: fa-code
   list:
     - term: 临时邮箱
       links: 
@@ -207,27 +222,24 @@
           url: https://tempmail.plus/zh/#!
           logo: assets/images/logos/tempemail_plus.png
           description: 一次性的匿名邮箱服务
-
-    - term: 图像处理
-      links:
-        - title: docsmall
-          url: https://docsmall.com/gif-compress
-          logo: assets/images/logos/adf3ce1.png
-          description: GIF在线压缩
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: assets/images/logos/gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-        - title: Squoosh
-          url: https://squoosh.app/
-          logo: assets/images/logos/squoosh.png
-          description: 图片在线压缩
-
-- taxonomy: 开发依赖
-  icon: fa-code
-  list:
     - term: 技术文档
       links:
+        - title: Rust Course
+          logo: assets/images/logos/rust-language333.png
+          description: Rust语言圣经
+          url: https://course.rs/about-book.html
+        - title: Rust Wiki
+          logo: assets/images/logos/rust-wiki.png
+          description: Rust官方文档
+          url: https://rustwiki.org/
+        - title: Go语言设计与实现
+          logo: assets/images/logos/golang-show.png
+          url: https://draveness.me/golang/
+          description: 书籍电子文档
+        - title: Go语言高级编程
+          url: https://chai2010.cn/advanced-go-programming-book/
+          description: 书籍电子档
+          logo: assets/images/logos/go1.png
         - title: RFC9000
           url: https://www.rfc-editor.org/rfc/rfc9000.html
           logo: assets/images/logos/qbv28d4klwdfxq43i02f.webp
@@ -235,13 +247,6 @@
         - title: Docker CLI
           url: https://docs.docker.com/compose/reference/
           logo: assets/images/logos/docker.svg
-          description: Docker 指令介绍
-        - title: Go语言设计与实现
-          url: https://draveness.me/golang/
-          description: 书籍电子文档
-        - title: Go语言高级编程
-          url: https://chai2010.cn/advanced-go-programming-book/
-          description: 书籍电子档
         - title: 小林coding
           url: https://xiaolincoding.com/
           description: 图解计算机基础
@@ -255,6 +260,7 @@
           description: List of Chromium Command Line Switches
           logo: assets/images/logos/1646807037162.png
 
+
     - term: 平台组件
       links:
         - title: DeepSource
@@ -265,61 +271,6 @@
           url: https://www.makesense.ai/
           logo: assets/images/logos/make-sense.png
           description: 图像数据集标注
-        - title: Cloud Studio
-          url: https://gh.cloudstudio.net/dashboard/general
-          logo: assets/images/logos/visualstudio.svg
-          description: 在线编程环境
-        - title: Free AI Hub
-          logo: assets/images/logos/狐狸logo.svg
-          url: https://www.freeaihub.com/
-          description: 交互式编程教学
-        - title: OpenAI Gym
-          url: https://gym.openai.com/
-          logo: assets/images/logos/OpenAI.png
-          description: 强化学习算法开发平台
-        - title: ip111
-          url: http://www.ip111.cn/
-          logo: assets/images/logos/IP address.svg
-          description: 映射当前网络的外网IP地址
-        - title: AntiBot
-          url: https://bot.sannysoft.com/
-          logo: assets/images/logos/antibot 爬虫风险管理.svg
-          description: 映射当前浏览器驱动的运行参数
-
-
-- taxonomy: 关联导航
-  icon: fa-compass
-  list:
-    - term: 技术导航
-      links:
-        - title: 鱼皮导航
-          url: https://www.code-nav.cn/
-          logo: assets/images/logos/yupi-nav.png
-          description: 站长鱼皮的编程导航
-        - title: GitHub 中文社区
-          url: https://www.githubs.cn/
-          logo: assets/images/logos/GitHub.svg
-          description: 分享和传播优质开源的 GitHub 项目
-        - title: HelloGitHub
-          url: https://hellogithub.com/
-          logo: assets/images/logos/HelloGitHub.png
-          description: 分享 GitHub 上有趣、入门级的开源项目
-
-    - term: 资源导航
-      links:
-        - title: 优聚集
-          url: https://ujuji.com/
-          logo: assets/images/logos/优聚集.png
-          description: 既行好事，也问前程
-        - title: doyoudo
-          url: http://doyoudo.com/resources
-          logo: assets/images/logos/doyoudo.png
-          description: doyoudo设计资源推荐
-        - title: 影视森林
-          url: https://www.549.tv/
-          logo: assets/images/logos/影视.svg
-          description: 影视资源导航
-
 
 - taxonomy: OSINT
   icon: fa-user-secret
@@ -330,6 +281,10 @@
         url: https://whatsmyname.app/
         logo: assets/images/logos/whatmyname.jpg
         description: 用户名搜索引擎
+      - title: Framework
+        description: information security
+        logo: assets/images/logos/osint.png
+        url: https://osintframework.com/
       - title: crt.sh
         url: https://crt.sh/?
         logo: assets/images/logos/crt-sh.png

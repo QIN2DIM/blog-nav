@@ -210,6 +210,10 @@
   list:
     - term: 临时邮箱
       links: 
+        - title: etm
+          description: 临时教育邮箱
+          logo: assets/images/logos/etempmail.png
+          url: https://etempmail.com/zh
         - title: 临时邮箱
           url: https://linshiyouxiang.net/
           logo: assets/images/logos/tempmail.png

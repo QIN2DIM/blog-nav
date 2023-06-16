@@ -22,10 +22,10 @@
 - taxonomy: 闪电内链
   icon: fa-pinterest
   links:
-    # - title: Kiwivm
-    #   logo: assets/images/logos/back-end.svg
-    #   url: https://kiwivm.64clouds.com/
-    #   description: 搬瓦工管理面板
+    - title: "Dash"
+      logo: assets/images/logos/-network-.svg
+      url: https://k8s.ros.services
+      description: 集群探针
     - title: Outlook
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/

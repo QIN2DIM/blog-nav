@@ -38,10 +38,6 @@
       logo: assets/images/logos/L0W5hykJ_400x400.jpg
       url: https://mail.google.com/mail/u/0/#inbox
       description: Gmail 网页版链接
-    - title: Gofile
-      url: https://gofile.io/uploadFiles
-      logo: assets/images/logos/gofile2.png
-      description: 文件临时中转
     - title: LeetCode
       url: https://leetcode.cn/progress/
       logo: assets/images/logos/leetcode-3629476-3031539.png
@@ -58,10 +54,10 @@
     #   url: https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a
     #   logo: assets/images/logos/spotify.png
     #   description: 华语流行乐合辑
-    - title: YBMusic List
-      url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
-      logo: assets/images/logos/youtube-music.png
-      description: THE FIRST TAKE
+    # - title: YBMusic List
+    #   url: https://music.youtube.com/watch?v=MpYy6wwqxoo&list=RDAMVMMpYy6wwqxoo
+    #   logo: assets/images/logos/youtube-music.png
+    #   description: THE FIRST TAKE
     # - title: ChatGPT
     #   url: https://chat.openai.com/chat
     #   logo: assets/images/logos/communityIcon_yyc98alroh5a1.jpg

@@ -8,7 +8,7 @@ print(){
 }
 
 cd /e/_GithubProjects/myProfile/blog-nav || exit
-hugo &> /dev/null
+hugo --gc --minify --cleanDestinationDir &> /dev/null
 print "[1/2] hugo gc"
 
 git add -A &> /dev/null

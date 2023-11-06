@@ -65,12 +65,47 @@
     - title: Squoosh
       url: https://squoosh.app/
       logo: assets/images/logos/squoosh.png
-      description: 图片在线压缩
+      description: 图片压缩
+    - title: VectorizerAI
+      url: https://vectorizer.ai/
+      logo: assets/images/logos/logo-vectorizerai.svg
+      description: 图片转矢量
+    - title: Microsoft Designer
+      logo: assets/images/logos/microsoft-designer.svg
+      description: 图片转设计
+      url: https://designer.microsoft.com/
 
-
-- taxonomy: TikShorts
+- taxonomy: Lovely AI
   icon: fa-graduation-cap
   links:
+    - title: DALL·E 3
+      description: Bing Image Creator
+      logo: assets/images/logos/_b762fb9a-f740-4182-9308-bca0858d6f34.svg
+      url: https://www.bing.com/images/create
+    - title: Leonardo.AI
+      description: AI art application
+      logo: assets/images/logos/leonardo-logo.svg
+      url: https://app.leonardo.ai/
+    - title: ClaudeAI
+      description: Cluade chat playground
+      logo: assets/images/logos/2304064501.webp
+      url: https://claude.ai/chats
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: assets/images/logos/ChatGPT_logo.svg.png
+      description: The new order
+    - title: Google Bard
+      url: https://bard.google.com/chat
+      logo: assets/images/logos/Google_Bard_logo.svg.png
+      description: BardAI chat playground
+    - title: Runway
+      description: Bing your image to life
+      logo: assets/images/logos/Runway.webp
+      url: https://app.runwayml.com/
+    - title: Futurepedia
+      logo: assets/images/logos/futurepedia.png
+      description: AIGC工具目录
+      url: https://www.futurepedia.io/?sort=popular
     - title: Phrasebank
       logo: assets/images/logos/1519782_colorful_document_note_office_paper_icon.png
       url: https://www.phrasebank.manchester.ac.uk/
@@ -91,10 +126,7 @@
       logo: assets/images/logos/gearrice.png
       description: Explore the Tech World
       url: https://www.gearrice.com/
-    - title: Futurepedia
-      logo: assets/images/logos/futurepedia.png
-      description: AIGC工具目录
-      url: https://www.futurepedia.io/?sort=popular
+
 
 
 - taxonomy: 素材资源
@@ -277,38 +309,50 @@
   list:
     - term: OSINT
       links:
+      - title: ArcGIS - Gaza
+        url: https://storymaps.arcgis.com/stories/2e746151991643e39e64780f0674f7dd
+        logo: assets/images/logos/_4778e1e5-ebcc-46bd-8c43-0afa318550b6.svg
+        description: "Interactive Map: Israel's Operation in Gaza"
+      - title: LiveUAMap
+        url: https://israelpalestine.liveuamap.com/
+        logo: assets/images/logos/logo_luam.svg
+        description: Live map of international conflicts
+      - title: War Mapper
+        url: https://www.warmapper.org/israel
+        description: presenting confirmed territorial control changes
+        logo: assets/images/logos/ecNVU0vN_400x400.jpg
       - title: WhatMyName
         url: https://whatsmyname.app/
         logo: assets/images/logos/whatmyname.jpg
         description: 用户名搜索引擎
-      - title: Framework
-        description: information security
-        logo: assets/images/logos/osint.png
-        url: https://osintframework.com/
+      # - title: Framework
+      #   description: information security
+      #   logo: assets/images/logos/osint.png
+      #   url: https://osintframework.com/
       - title: crt.sh
         url: https://crt.sh/?
         logo: assets/images/logos/crt-sh.png
         description: 证书搜索引擎
-      - title: ZoomEye
-        url: https://www.zoomeye.org/component
-        logo: assets/images/logos/ZoomeEye.jpg
-        description: 互联网资产搜索引擎
-      - title: Shodan
-        url: https://www.shodan.io/
-        logo: assets/images/logos/shodan.jpg
-        description: 互联网连接设备搜索引擎
+      # - title: ZoomEye
+      #   url: https://www.zoomeye.org/component
+      #   logo: assets/images/logos/ZoomeEye.jpg
+      #   description: 互联网资产搜索引擎
+      # - title: Shodan
+      #   url: https://www.shodan.io/
+      #   logo: assets/images/logos/shodan.jpg
+      #   description: 互联网连接设备搜索引擎
       - title: SunCalc
         url: http://suncalc.net/
         logo: assets/images/logos/SunCalc.jpg
         description: 获取指定时刻的太阳位置和日光相位
-      - title: REG007
-        url: https://www.reg007.com
-        logo: assets/images/logos/reg007.jpg
-        description: 用户画像分析
-      - title: OpenGPS
-        url: https://www.opengps.cn/Data/IP/ipplus.aspx
-        logo: assets/images/logos/opengps.jpg
-        description: 高精度IP定位
+      # - title: REG007
+      #   url: https://www.reg007.com
+      #   logo: assets/images/logos/reg007.jpg
+      #   description: 用户画像分析
+      # - title: OpenGPS
+      #   url: https://www.opengps.cn/Data/IP/ipplus.aspx
+      #   logo: assets/images/logos/opengps.jpg
+      #   description: 高精度IP定位
       # - title: CLTT
       #   url: http://www.cltt.org/studentscore
       #   logo: 

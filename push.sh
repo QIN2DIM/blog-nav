@@ -1,3 +1,5 @@
+export https_proxy=http://127.0.0.1:2081
+
 GREEN=$(tput setaf 2)
 NC=$(tput sgr0)
 

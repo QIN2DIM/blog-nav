@@ -403,10 +403,14 @@
 
     - term: 飞秋
       links:
-        - title: AList Share
+        - title: AList_MapoTofu
           logo: assets/images/logos/AList.png
           description: 影视资源分享
-          url: https://docs.qq.com/sheet/DQ0d6aUxkcUxoTWN5?tab=BB08J2
+          url: https://docs.qq.com/sheet/DQ2xKZGJHV0dUcEtF
+        - title: AList_YYDS
+          logo: assets/images/logos/AList.png
+          description: 影视资源分享
+          url: https://docs.qq.com/doc/DT2VwRmpCUEdpbkF1
         - title: 片库
           url: https://www.btnull.org/
           logo: assets/images/logos/片库.jpg

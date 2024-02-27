@@ -30,6 +30,10 @@
       logo: assets/images/logos/-network-.svg
       url: https://k8s.ros.services
       description: 集群探针
+    - title: 大盘云图
+      logo: assets/images/logos/prediction-6367-sticker.png
+      description: 大盘走势
+      url: https://dapanyuntu.com/
     - title: Outlook
       logo: assets/images/logos/light-component-outlook-Forwardmail.svg
       url: https://outlook.live.com/mail/0/
@@ -83,9 +87,26 @@
       description: 图片转设计
       url: https://designer.microsoft.com/
 
+
 - taxonomy: Lovely AI
   icon: fa-graduation-cap
   links:
+    - title: StickerBaker
+      description: 贴图生成
+      logo: assets/images/logos/prediction-4004-sticker.png
+      url: https://stickerbaker.com/
+    - title: 机器之心SOTA
+      description: SOTA! 热榜
+      logo: assets/images/logos/sota-jiqizhixin.jpg
+      url: https://sota.jiqizhixin.com/
+    - title: LiblibAI
+      description: GenAI 创作平台
+      logo: assets/images/logos/LiblibAI.png
+      url: https://www.liblib.art/
+    - title: PromptPerfect
+      description: 释放提示词工程的全部潜力
+      logo: assets/images/logos/PromptPerfect-light.svg
+      url: https://promptperfect.jina.ai/
     - title: DALL·E 3
       description: Bing Image Creator
       logo: assets/images/logos/_b762fb9a-f740-4182-9308-bca0858d6f34.jpg
@@ -102,10 +123,10 @@
       url: https://chat.openai.com/
       logo: assets/images/logos/ChatGPT_logo.svg.png
       description: The new order
-    - title: Google Bard
-      url: https://bard.google.com/chat
-      logo: assets/images/logos/Google_Bard_logo.svg.png
-      description: BardAI chat playground
+    - title: Gemini
+      url: https://gemini.google.com/app
+      logo: assets/images/logos/google-bard-icon-filled-256.webp
+      description: Gemini chat playground
     - title: Runway
       description: Bing your image to life
       logo: assets/images/logos/Runway.webp
@@ -118,6 +139,14 @@
       url: https://roboflow.com/universe
       description: 构建与部署CV模型
       logo: assets/images/logos/roboflow.png
+    - title: Le Chat Mistral
+      url: https://chat.mistral.ai/chat
+      description: Frontier AI in your hands
+      logo: assets/images/logos/mistral.jpg
+    - title: 通义千问
+      url: https://tongyi.aliyun.com/qianwen/
+      description: 致力于实现类人智慧的通用智能
+      logo: assets/images/logos/Tongyi_Qianwen_Logo.png
 
 - taxonomy: 数据洞见
   icon: fa-binoculars
@@ -248,6 +277,14 @@
           url: http://suncalc.net/
           logo: assets/images/logos/SunCalc.jpg
           description: Location by daylight
+        - title: Geoguessr
+          description: Explore the world!
+          logo: assets/images/logos/geoguessr.png
+          url: https://www.geoguessr.com/
+        - title: 图寻
+          logo: assets/images/logos/prediction-7119-sticker.png
+          description: 探索世界，找到你
+          url: https://www.yuque.com/chaofun/tuxun
       # - title: REG007
       #   url: https://www.reg007.com
       #   logo: assets/images/logos/reg007.jpg

@@ -7,7 +7,7 @@ print(){
 	echo "${GREEN}$1${NC}"
 }
 
-cd /e/_GithubProjects/myProfile/blog-nav || exit
+cd /d/_GitHubProjects/Sources/blog-nav || exit
 hugo --gc --minify --cleanDestinationDir &> /dev/null
 print "[1/2] hugo gc"
 

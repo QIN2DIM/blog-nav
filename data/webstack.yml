@@ -103,30 +103,6 @@
       description: 释放提示词工程的全部潜力
       logo: assets/images/logos/PromptPerfect-light.svg
       url: https://promptperfect.jina.ai/
-    - title: DALL·E 3
-      description: Bing Image Creator
-      logo: assets/images/logos/_b762fb9a-f740-4182-9308-bca0858d6f34.jpg
-      url: https://www.bing.com/images/create
-    - title: Leonardo.AI
-      description: AI art application
-      logo: assets/images/logos/leonardo-logo.svg
-      url: https://app.leonardo.ai/
-    # - title: ClaudeAI
-    #   description: Cluade chat playground
-    #   logo: assets/images/logos/2304064501.webp
-    #   url: https://claude.ai/chats
-    - title: ChatGPT
-      url: https://chat.openai.com/
-      logo: assets/images/logos/ChatGPT_logo.svg.png
-      description: The new order
-    - title: Gemini
-      url: https://gemini.google.com/app
-      logo: assets/images/logos/google-bard-icon-filled-256.webp
-      description: Gemini chat playground
-    - title: Runway
-      description: Bing your image to life
-      logo: assets/images/logos/Runway.webp
-      url: https://app.runwayml.com/
     - title: Hugging Face
       url: https://huggingface.co/models
       description: Democratize good machine learning
@@ -135,6 +111,30 @@
       url: https://roboflow.com/universe
       description: 构建与部署CV模型
       logo: assets/images/logos/roboflow.png
+    - title: Runway
+      description: Bing your image to life
+      logo: assets/images/logos/Runway.webp
+      url: https://app.runwayml.com/
+    - title: DALL·E 3
+      description: Bing Image Creator
+      logo: assets/images/logos/_b762fb9a-f740-4182-9308-bca0858d6f34.jpg
+      url: https://www.bing.com/images/create
+    - title: Leonardo.AI
+      description: AI art application
+      logo: assets/images/logos/leonardo-logo.svg
+      url: https://app.leonardo.ai/
+    - title: ClaudeAI
+      description: Cluade3 Opus!!
+      logo: assets/images/logos/claude-icon-filled-256.png
+      url: https://claude.ai/chats
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: assets/images/logos/ChatGPT_logo.svg.png
+      description: The new order
+    - title: Gemini
+      url: https://gemini.google.com/app
+      logo: assets/images/logos/google-bard-icon-filled-256.webp
+      description: Gemini chat playground
     - title: Le Chat Mistral
       url: https://chat.mistral.ai/chat
       description: Frontier AI in your hands

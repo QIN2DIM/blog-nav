@@ -143,10 +143,10 @@
       url: https://tongyi.aliyun.com/qianwen/
       description: 致力于实现类人智慧的通用智能
       logo: assets/images/logos/Tongyi_Qianwen_Logo.png
-    - title: Kimi
-      url: https://kimi.moonshot.cn/chat/
-      description: 月之暗面
-      logo: assets/images/logos/kimiai.ico
+    # - title: Kimi
+    #   url: https://kimi.moonshot.cn/chat/
+    #   description: 月之暗面
+    #   logo: assets/images/logos/kimiai.ico
 
 - taxonomy: 数据洞见
   icon: fa-binoculars

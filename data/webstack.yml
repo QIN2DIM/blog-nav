@@ -78,10 +78,10 @@
       url: https://new.express.adobe.com/tools/remove-background
       logo: assets/images/logos/adobe-express.jpg
       description: 图片去除背景
-    - title: VectorizerAI
-      url: https://vectorizer.ai/
-      logo: assets/images/logos/logo-vectorizerai.svg
-      description: 图片转矢量
+    # - title: VectorizerAI
+    #   url: https://vectorizer.ai/
+    #   logo: assets/images/logos/logo-vectorizerai.svg
+    #   description: 图片转矢量
     - title: Microsoft Designer
       logo: assets/images/logos/microsoft-designer.svg
       description: 图片转设计
@@ -91,6 +91,10 @@
 - taxonomy: Lovely AI
   icon: fa-graduation-cap
   links:
+    - title: Midjourney
+      description: 探索新的思维媒介并扩展人类的想象力
+      logo: assets/images/logos/communityIcon_zy03g6nwnyf91_sxgtvq.png
+      url: https://www.midjourney.com/explore
     - title: StickerBaker
       description: 贴图生成
       logo: assets/images/logos/prediction-4004-sticker.png
@@ -99,10 +103,10 @@
       description: GenAI 创作平台
       logo: assets/images/logos/LiblibAI.png
       url: https://www.liblib.art/
-    - title: PromptPerfect
-      description: 释放提示词工程的全部潜力
-      logo: assets/images/logos/PromptPerfect-light.svg
-      url: https://promptperfect.jina.ai/
+    - title: WaytoAGI
+      description: 努力做最好的中文AI知识库
+      logo: assets/images/logos/waytoagi.jpg
+      url: https://www.waytoagi.com/
     - title: Hugging Face
       url: https://huggingface.co/models
       description: Democratize good machine learning

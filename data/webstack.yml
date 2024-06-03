@@ -26,10 +26,10 @@
 - taxonomy: 闪电内链
   icon: fa-pinterest
   links:
-    - title: "Dash"
+    - title: "Dashboard"
       logo: assets/images/logos/-network-.svg
-      url: https://k8s.ros.services
-      description: 集群探针
+      url: https://nezha.cyberspark.top
+      description: 探针面板
     - title: 大盘云图
       logo: assets/images/logos/prediction-6367-sticker.png
       description: 大盘走势

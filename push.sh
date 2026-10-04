@@ -13,7 +13,7 @@ print_error() {
 }
 
 blog_nav_path1="/e/_GitHubProjects/myProfile/blog-nav"
-blog_nav_path2="/d/_GitHubProjects/Sources/blog-nav"
+blog_nav_path2="/Users/kk/Developer/_Profiles/blog-nav"
 
 if [ -d "$blog_nav_path1" ]; then
     cd "$blog_nav_path1" || exit
